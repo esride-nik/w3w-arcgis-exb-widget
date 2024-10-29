@@ -4,6 +4,14 @@
 
 ---
 
+## Deprecation
+
+```
+This widget hasn't been maintained in a while and probably won't be, because w3w are removing more and more features from their free API plan.
+```
+
+---
+
 ## How to use this widget
 Clone the sample repo into your Experience Builder Client root folder and restart your watcher.
 
